@@ -1,9 +1,9 @@
-# spatial_viability_tortilla
+# spatial_viability
 Geospatial machine learning pipeline for site viability &amp; retail footprint optimization of artisan food hubs. Trains XGBoost classifiers on global benchmark clusters (MXC, Portland, Austin) to map high-potential corridors in North County San Diego for a local business seeking to move from the cheap product to high price market rebrand.
 
 
 Spatial Transfer Learning & Artisanal Site Viability Engine
-A geospatial machine learning pipeline designed to evaluate commercial site viability and retail footprint optimization for artisanal food production hubs (specializing in heirloom corn nixtamalization and independent molino supply chains).
+A geospatial machine learning pipeline designed to evaluate commercial site viability and retail footprint optimization for artisanal food production hubs specializing to their market niche.
 
 This framework trains an XGBoost classifier on national and international benchmark anchor markets—ranging from Mexico City to Portland and New York—and projects spatial viability probabilities across target corridors (such as North County, San Diego).
 
